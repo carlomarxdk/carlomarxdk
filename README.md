@@ -1,9 +1,9 @@
 ## Hi there 👋 My name is Germans Savcisens
 
-![Portfolio](https://img.shields.io/badge/Academic-Portfolio-darkgreen)
+[![Portfolio](https://img.shields.io/badge/Academic-Portfolio-darkgreen)](https://savcisens.com)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blueviolet)](https://scholar.google.com/citations?hl=en&user=60I1M-oAAAAJ)
 ![Last Updated](https://img.shields.io/github/last-commit/carlomarxdk/carlomarxdk?label=Last%20updated&color=blue)
-![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-yellow)
+[![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-yellow)](https://pronouns.org/what-and-why)
 ![Location](https://img.shields.io/badge/Boston-USA-red)
 
 I'm a **Postdoctoral Research Associate** at [Northeastern University](https://www.khoury.northeastern.edu/), working in the [Rad Lab](https://eliassi.org/radlab.html) and [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/). My research sits at the intersection of **machine learning**, **network science**, and **human behavior**.
