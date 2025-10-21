@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is Germans Savcisens
 
+![Portfolio](https://img.shields.io/badge/Academic-Portfolio-darkgreen)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blueviolet)](https://scholar.google.com/citations?hl=en&user=60I1M-oAAAAJ)
 ![Last Updated](https://img.shields.io/github/last-commit/carlomarxdk/carlomarxdk?label=Last%20updated&color=blue)
 ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-yellow)
@@ -20,9 +21,9 @@ I'm a **Postdoctoral Research Associate** at [Northeastern University](https://w
 
 ### 🧩 Featured Projects
 
-* **[Trilemma of Truth](https://github.com/carlomarxdk/trilemma-of-truth)** — dataset and analysis framework exploring true / false / neither factual statements in LLMs.
-* **[sAwMIL](https://github.com/carlomarxdk/sawmil) (Sparse-Aware Multiple Instance Learning)** — a probing classifier for layer-wise interpretability.
-* **[LIFE2VEC](https://github.com/SocialComplexityLab/life2vec) / [life2vec-light](https://github.com/carlomarxdk/life2vec-light)** — transformer model for life-course prediction using population-scale registry data (developed during my PhD).
+* **[Trilemma of Truth](https://github.com/carlomarxdk/trilemma-of-truth)**: dataset and analysis framework exploring how LLMs represent and use factual information.
+* **[sAwMIL](https://github.com/carlomarxdk/sawmil) (Sparse-Aware Multiple Instance Learning)**: Multiple-Instance SVM classifier
+* **[LIFE2VEC](https://github.com/SocialComplexityLab/life2vec) and [life2vec-light](https://github.com/carlomarxdk/life2vec-light)**: transformer model for life-course prediction using population-scale registry data (developed during my PhD).
 
 ---
 
@@ -44,4 +45,4 @@ I'm a **Postdoctoral Research Associate** at [Northeastern University](https://w
 * 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=60I1M-oAAAAJ)
 
 ---
-P.S. Carlo Marx is a character in Jack Kerouac's novel *On the Road*.
+P.S. Carlo Marx is a character in Jack Kerouac's novel *On the Road* ...and DK? Honestly, I created this account in Denmark, and now it’s part of my lore.
