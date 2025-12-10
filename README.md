@@ -31,6 +31,7 @@ I'm a **Postdoctoral Research Associate** at [Northeastern University](https://w
 
 * Savcisens, Germans, et al. "[Using sequences of life-events to predict human lives](https://life2vec.dk)." Nature Computational Science 4.1 (2024): 43-56.
 * Savcisens, Germans, and Tina Eliassi-Rad. "[Trilemma of Truth in Large Language Models](https://openreview.net/forum?id=z7dLG2ycRf)." Mechanistic Interpretability Workshop at NeurIPS 2025. 2025.
+* Dies, Samantha, Courtney Maynard, Germans Savcisens, and Tina Eliassi-Rad. "[Representational Stability of Truth in Large Language Models](https://arxiv.org/abs/2511.19166)." arXiv preprint arXiv:2511.19166 (2025).
 
 *(Full list on [Google Scholar](https://scholar.google.com/citations?user=60I1M-oAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-5811-3230).)*
 
@@ -45,4 +46,6 @@ I'm a **Postdoctoral Research Associate** at [Northeastern University](https://w
 * 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=60I1M-oAAAAJ)
 
 ---
-P.S. Carlo Marx is a character in Jack Kerouac's novel *On the Road* ...and DK? Honestly, I created this account in Denmark, and now it’s part of my lore.
+P.S. Carlo Marx is a character in Jack Kerouac's novel *On the Road* ...and DK? I don't have any great references with that one; it just stands for 'Denmark'.
+
+> “That last thing is what you can't get, Carlo. Nobody can get to that last thing. We keep on living in hopes of catching it once for all.” Jack Kerouac (On the Road)
