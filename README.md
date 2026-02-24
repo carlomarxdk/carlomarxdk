@@ -22,7 +22,8 @@ I'm a **Postdoctoral Research Associate** at [Northeastern University](https://w
 ### 🧩 Featured Projects
 
 * **[Trilemma of Truth](https://github.com/carlomarxdk/trilemma-of-truth)**: dataset and analysis framework exploring how LLMs represent and use factual information.
-* **[sAwMIL](https://github.com/carlomarxdk/sawmil) (Sparse-Aware Multiple Instance Learning)**: Multiple-Instance SVM classifier
+* **[sAwMIL](https://github.com/carlomarxdk/sawmil) (Sparse-Aware Multiple Instance Learning)**: Multiple-Instance SVM classifier (alpha)
+* **[tab2seq](https://github.com/carlomarxdk/tab2seq)**:Transform tabular event data into sequences ready for Transformer and Sequential models (alpha)
 * **[LIFE2VEC](https://github.com/SocialComplexityLab/life2vec) and [life2vec-light](https://github.com/carlomarxdk/life2vec-light)**: transformer model for life-course prediction using population-scale registry data (developed during my PhD).
 
 ---
