@@ -22,7 +22,7 @@ I'm a **Postdoctoral Research Associate** at [Northeastern University](https://w
 ### 🧩 Featured Projects
 
 * **[Trilemma of Truth](https://github.com/carlomarxdk/trilemma-of-truth)**: dataset and analysis framework exploring how LLMs represent and use factual information.
-* **[CoevolveSim](https://github.com/carlomarxdk/coevolve-sim) is an agent-based simulation framework for studying how beliefs propagate in a social network of large language models.
+* **[CoevolveSim](https://github.com/carlomarxdk/coevolve-sim)** is an agent-based simulation framework for studying how beliefs propagate in a social network of large language models.
 * **[tab2seq](https://github.com/carlomarxdk/tab2seq)**:Transform tabular event data into sequences ready for Transformer and Sequential models (alpha)
 * **[LIFE2VEC](https://github.com/SocialComplexityLab/life2vec) and [life2vec-light](https://github.com/carlomarxdk/life2vec-light)**: transformer model for life-course prediction using population-scale registry data (developed during my PhD).
 
